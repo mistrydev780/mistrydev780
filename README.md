@@ -5,20 +5,16 @@
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Full+Stack+Software+Developer;Building+Modern+Web+Applications;Developing+Android+%26+iOS+Apps;React+Native+%7C+Next.js+%7C+Node.js;Exploring+Generative+AI+%26+AI+Agents;Building+Scalable+Digital+Products" alt="Animated Developer Text"/>
-</a>
 
 <br/><br/>
 
 <a href="https://devmistry780.vercel.app">
 <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-Visit%20Website-06B6D4?style=for-the-badge" alt="Portfolio"/>
 </a>
-
 <a href="https://github.com/mistrydev780">
 <img src="https://img.shields.io/badge/GITHUB-Follow%20Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-
 <a href="mailto:devjangid788@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -33,9 +29,9 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<p align="center">
+<div align="center">
 <img width="220" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer Coding Animation"/>
-</p>
+</div>
 
 Hi! I'm **Dev Mistry**, a passionate Full Stack Software Developer interested in creating modern, scalable, and user-focused digital products.
 
@@ -59,15 +55,12 @@ Hi! I'm **Dev Mistry**, a passionate Full Stack Software Developer interested in
 <h3 align="center">🌐 Frontend Development</h3>
 
 <div align="center">
-
 <img width="100%" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" alt="Frontend Technologies"/>
-
 </div>
 
 <h3 align="center">📱 Mobile App Development</h3>
 
 <div align="center">
-
 <img width="100%" src="https://skillicons.dev/icons?i=react,android,apple" alt="Mobile Development"/>
 
 <br/><br/>
@@ -75,13 +68,11 @@ Hi! I'm **Dev Mistry**, a passionate Full Stack Software Developer interested in
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
 <img src="https://img.shields.io/badge/Android_&_iOS-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android and iOS"/>
-
 </div>
 
 <h3 align="center">⚙️ Backend Development</h3>
 
 <div align="center">
-
 <img width="100%" src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend Technologies"/>
 
 <br/><br/>
@@ -89,19 +80,16 @@ Hi! I'm **Dev Mistry**, a passionate Full Stack Software Developer interested in
 <img src="https://img.shields.io/badge/REST_API-0F766E?style=for-the-badge" alt="REST API"/>
 <img src="https://img.shields.io/badge/JWT_Authentication-334155?style=for-the-badge" alt="JWT Authentication"/>
 <img src="https://img.shields.io/badge/Role_Based_Access-7C3AED?style=for-the-badge" alt="Role Based Access"/>
-
 </div>
 
 <h3 align="center">🗄️ Database & ORM</h3>
 
 <div align="center">
-
 <img width="100%" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" alt="Database Technologies"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/TypeORM-Learning-E83524?style=for-the-badge" alt="TypeORM"/>
-
 </div>
 
 <h3 align="center">🤖 AI & Automation</h3>
@@ -143,10 +131,8 @@ A selection of projects showcasing my interest in Full Stack Development, AI, Sa
 <h3 align="center">🤖 DevNova AI</h3>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/AI-Powered-7C3AED?style=flat-square" alt="AI Powered"/>
 <img src="https://img.shields.io/badge/Full_Stack-Project-0891B2?style=flat-square" alt="Full Stack Project"/>
-
 </div>
 
 AI-focused application concept exploring intelligent features and modern web development.
@@ -162,10 +148,8 @@ AI-focused application concept exploring intelligent features and modern web dev
 <h3 align="center">🛒 AI MERN E-Commerce</h3>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/MERN-Stack-0F766E?style=flat-square" alt="MERN Stack"/>
 <img src="https://img.shields.io/badge/E--Commerce-Application-2563EB?style=flat-square" alt="E-Commerce"/>
-
 </div>
 
 E-commerce project focused on full stack development and AI-powered features.
@@ -181,10 +165,8 @@ E-commerce project focused on full stack development and AI-powered features.
 <h3 align="center">📋 TaskFlow Platform</h3>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/Productivity-Platform-0891B2?style=flat-square" alt="Productivity"/>
 <img src="https://img.shields.io/badge/Full_Stack-Application-7C3AED?style=flat-square" alt="Full Stack Application"/>
-
 </div>
 
 Task management platform concept focused on organizing workflows and productivity.
@@ -200,10 +182,8 @@ Task management platform concept focused on organizing workflows and productivit
 <h3 align="center">👥 Employee Management</h3>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/Management-System-0F766E?style=flat-square" alt="Management System"/>
 <img src="https://img.shields.io/badge/Backend-Development-2563EB?style=flat-square" alt="Backend Development"/>
-
 </div>
 
 Employee management application focused on data handling and administrative workflows.
@@ -219,10 +199,8 @@ Employee management application focused on data handling and administrative work
 <h3 align="center">🎯 AI Interview Preparation</h3>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=flat-square" alt="Artificial Intelligence"/>
 <img src="https://img.shields.io/badge/Education-Application-0891B2?style=flat-square" alt="Education Application"/>
-
 </div>
 
 AI interview preparation platform concept for learning and interview practice.
@@ -238,10 +216,8 @@ AI interview preparation platform concept for learning and interview practice.
 <h3 align="center">💬 AI Customer Support SaaS</h3>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/SaaS-Platform-0F766E?style=flat-square" alt="SaaS Platform"/>
 <img src="https://img.shields.io/badge/AI_Automation-7C3AED?style=flat-square" alt="AI Automation"/>
-
 </div>
 
 Customer support SaaS concept exploring AI-powered support workflows.
@@ -271,11 +247,15 @@ Customer support SaaS concept exploring AI-powered support workflows.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=mistrydev780&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mistrydev780&theme=tokyonight" alt="GitHub Profile Summary"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistrydev780&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mistrydev780&theme=tokyonight" alt="GitHub Statistics"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mistrydev780&theme=tokyonight" alt="Most Used Languages"/>
 
 <br/><br/>
 
