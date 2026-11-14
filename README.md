@@ -265,20 +265,7 @@ Customer support SaaS concept exploring AI-powered support workflows.
 
 ---
 
-<h2 align="center">🎯 Currently Learning</h2>
 
-<div align="center">
-
-| Area | Learning Focus |
-|:---|:---|
-| 📱 Mobile | React Native, Expo, Android & iOS deployment |
-| 🏗️ Architecture | System Design, scalable applications |
-| ☁️ DevOps | Docker, AWS, CI/CD, cloud deployment |
-| 🤖 AI | AI Agents, RAG, Agentic AI, tool calling |
-| ⚙️ Backend | Security, performance, caching, queues |
-| 🗄️ Database | PostgreSQL, Prisma, TypeORM |
-
-</div>
 
 ---
 
