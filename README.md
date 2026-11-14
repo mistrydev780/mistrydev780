@@ -1,29 +1,31 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0F3B66,70:0891B2,100:06B6D4&text=DEV%20MISTRY&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20%7C%20MOBILE%20%7C%20AI%20DEVELOPER&descSize=17&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0F3B66,70:0891B2,100:06B6D4&text=DEV%20MISTRY&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20%7C%20MOBILE%20%7C%20AI%20DEVELOPER&descSize=17&descAlignY=60&animation=fadeIn" alt="Dev Mistry Banner"/>
 
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Full+Stack+Software+Developer;Building+Modern+Web+Applications;Developing+Android+%26+iOS+Apps;React+Native+%7C+Next.js+%7C+Node.js;Exploring+Generative+AI+%26+AI+Agents;Building+Scalable+Digital+Products" />
-</a>
-
-<br/>
-
-<a href="https://devmistry780.vercel.app">
-<img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-Visit%20Website-06B6D4?style=for-the-badge" />
-</a>
-<a href="https://github.com/mistrydev780">
-<img src="https://img.shields.io/badge/GITHUB-Follow%20Me-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="mailto:devjangid788@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Full+Stack+Software+Developer;Building+Modern+Web+Applications;Developing+Android+%26+iOS+Apps;React+Native+%7C+Next.js+%7C+Node.js;Exploring+Generative+AI+%26+AI+Agents;Building+Scalable+Digital+Products" alt="Animated Developer Text"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mistrydev780&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" />
+<a href="https://devmistry780.vercel.app">
+<img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-Visit%20Website-06B6D4?style=for-the-badge" alt="Portfolio"/>
+</a>
+
+<a href="https://github.com/mistrydev780">
+<img src="https://img.shields.io/badge/GITHUB-Follow%20Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="mailto:devjangid788@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mistrydev780&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -31,7 +33,9 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<img align="right" width="280" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<p align="center">
+<img width="220" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer Coding Animation"/>
+</p>
 
 Hi! I'm **Dev Mistry**, a passionate Full Stack Software Developer interested in creating modern, scalable, and user-focused digital products.
 
@@ -48,8 +52,6 @@ Hi! I'm **Dev Mistry**, a passionate Full Stack Software Developer interested in
 - ☁️ Docker, AWS, CI/CD & DevOps
 - 🏗️ System Design & Scalable Architecture
 
-<br clear="right"/>
-
 ---
 
 <h2 align="center">⚡ Technology Stack</h2>
@@ -58,7 +60,7 @@ Hi! I'm **Dev Mistry**, a passionate Full Stack Software Developer interested in
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
+<img width="100%" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" alt="Frontend Technologies"/>
 
 </div>
 
@@ -66,13 +68,13 @@ Hi! I'm **Dev Mistry**, a passionate Full Stack Software Developer interested in
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,android,apple" />
+<img width="100%" src="https://skillicons.dev/icons?i=react,android,apple" alt="Mobile Development"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_&_iOS-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+<img src="https://img.shields.io/badge/Android_&_iOS-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android and iOS"/>
 
 </div>
 
@@ -80,13 +82,13 @@ Hi! I'm **Dev Mistry**, a passionate Full Stack Software Developer interested in
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+<img width="100%" src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend Technologies"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/REST_API-0F766E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JWT_Authentication-334155?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Role_Based_Access-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_API-0F766E?style=for-the-badge" alt="REST API"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-334155?style=for-the-badge" alt="JWT Authentication"/>
+<img src="https://img.shields.io/badge/Role_Based_Access-7C3AED?style=for-the-badge" alt="Role Based Access"/>
 
 </div>
 
@@ -94,11 +96,11 @@ Hi! I'm **Dev Mistry**, a passionate Full Stack Software Developer interested in
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" />
+<img width="100%" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" alt="Database Technologies"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/TypeORM-Learning-E83524?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TypeORM-Learning-E83524?style=for-the-badge" alt="TypeORM"/>
 
 </div>
 
@@ -106,13 +108,13 @@ Hi! I'm **Dev Mistry**, a passionate Full Stack Software Developer interested in
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Agents-0F766E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-1F2937?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG_Concepts-475569?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/AI_Agents-0F766E?style=for-the-badge" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Claude_Code-1F2937?style=for-the-badge" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-2563EB?style=for-the-badge" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/RAG_Concepts-475569?style=for-the-badge" alt="RAG Concepts"/>
 
 </div>
 
@@ -120,13 +122,13 @@ Hi! I'm **Dev Mistry**, a passionate Full Stack Software Developer interested in
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,nginx,vercel,postman,vscode,figma" />
+<img width="100%" src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,nginx,vercel,postman,vscode,figma" alt="DevOps and Cloud Technologies"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-Fundamentals-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AWS-Cloud_Fundamentals-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Fundamentals-2563EB?style=for-the-badge" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/AWS-Cloud_Fundamentals-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
 
 </div>
 
@@ -138,16 +140,14 @@ Hi! I'm **Dev Mistry**, a passionate Full Stack Software Developer interested in
 A selection of projects showcasing my interest in Full Stack Development, AI, SaaS, and modern application engineering.
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 <h3 align="center">🤖 DevNova AI</h3>
 
-<p align="center">
-<img src="https://img.shields.io/badge/AI-Powered-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Full_Stack-Project-0891B2?style=flat-square"/>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI-Powered-7C3AED?style=flat-square" alt="AI Powered"/>
+<img src="https://img.shields.io/badge/Full_Stack-Project-0891B2?style=flat-square" alt="Full Stack Project"/>
+
+</div>
 
 AI-focused application concept exploring intelligent features and modern web development.
 
@@ -157,15 +157,16 @@ AI-focused application concept exploring intelligent features and modern web dev
 <a href="https://github.com/mistrydev780/DevNova-AI">View Repository →</a>
 </p>
 
-</td>
-<td width="50%" valign="top">
+---
 
 <h3 align="center">🛒 AI MERN E-Commerce</h3>
 
-<p align="center">
-<img src="https://img.shields.io/badge/MERN-Stack-0F766E?style=flat-square"/>
-<img src="https://img.shields.io/badge/E--Commerce-Application-2563EB?style=flat-square"/>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/MERN-Stack-0F766E?style=flat-square" alt="MERN Stack"/>
+<img src="https://img.shields.io/badge/E--Commerce-Application-2563EB?style=flat-square" alt="E-Commerce"/>
+
+</div>
 
 E-commerce project focused on full stack development and AI-powered features.
 
@@ -175,18 +176,16 @@ E-commerce project focused on full stack development and AI-powered features.
 <a href="https://github.com/mistrydev780/Ai-MERN-Dev-E-Commerce-Master">View Repository →</a>
 </p>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+---
 
 <h3 align="center">📋 TaskFlow Platform</h3>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Productivity-Platform-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Full_Stack-Application-7C3AED?style=flat-square"/>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Productivity-Platform-0891B2?style=flat-square" alt="Productivity"/>
+<img src="https://img.shields.io/badge/Full_Stack-Application-7C3AED?style=flat-square" alt="Full Stack Application"/>
+
+</div>
 
 Task management platform concept focused on organizing workflows and productivity.
 
@@ -196,15 +195,16 @@ Task management platform concept focused on organizing workflows and productivit
 <a href="https://github.com/mistrydev780/TaskFlow-Management-Platform">View Repository →</a>
 </p>
 
-</td>
-<td width="50%" valign="top">
+---
 
 <h3 align="center">👥 Employee Management</h3>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Management-System-0F766E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend-Development-2563EB?style=flat-square"/>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Management-System-0F766E?style=flat-square" alt="Management System"/>
+<img src="https://img.shields.io/badge/Backend-Development-2563EB?style=flat-square" alt="Backend Development"/>
+
+</div>
 
 Employee management application focused on data handling and administrative workflows.
 
@@ -214,18 +214,16 @@ Employee management application focused on data handling and administrative work
 <a href="https://github.com/mistrydev780/Employee-Management-System-Master">View Repository →</a>
 </p>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+---
 
 <h3 align="center">🎯 AI Interview Preparation</h3>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Education-Application-0891B2?style=flat-square"/>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=flat-square" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Education-Application-0891B2?style=flat-square" alt="Education Application"/>
+
+</div>
 
 AI interview preparation platform concept for learning and interview practice.
 
@@ -235,15 +233,16 @@ AI interview preparation platform concept for learning and interview practice.
 <a href="https://github.com/mistrydev780/Ai-Interview-Preparation-Platform">View Repository →</a>
 </p>
 
-</td>
-<td width="50%" valign="top">
+---
 
 <h3 align="center">💬 AI Customer Support SaaS</h3>
 
-<p align="center">
-<img src="https://img.shields.io/badge/SaaS-Platform-0F766E?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI_Automation-7C3AED?style=flat-square"/>
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/SaaS-Platform-0F766E?style=flat-square" alt="SaaS Platform"/>
+<img src="https://img.shields.io/badge/AI_Automation-7C3AED?style=flat-square" alt="AI Automation"/>
+
+</div>
 
 Customer support SaaS concept exploring AI-powered support workflows.
 
@@ -252,10 +251,6 @@ Customer support SaaS concept exploring AI-powered support workflows.
 <p align="center">
 <a href="https://github.com/mistrydev780/AI-Customer-Support-SaaS-Platform">View Repository →</a>
 </p>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -276,13 +271,15 @@ Customer support SaaS concept exploring AI-powered support workflows.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mistrydev780&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistrydev780&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=mistrydev780&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=mistrydev780&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistrydev780&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<br/><br/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=mistrydev780&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -309,7 +306,7 @@ Customer support SaaS concept exploring AI-powered support workflows.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Code.+Learn.+Build.+Improve.;Turning+Ideas+Into+Digital+Products.;Consistency+Is+The+Key+To+Growth." />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=50&lines=Code.+Learn.+Build.+Improve.;Turning+Ideas+Into+Digital+Products.;Consistency+Is+The+Key+To+Growth." alt="Developer Mindset Animation"/>
 
 <br/>
 
@@ -324,15 +321,15 @@ Customer support SaaS concept exploring AI-powered support workflows.
 <div align="center">
 
 <a href="https://devmistry780.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://github.com/mistrydev780">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 <a href="mailto:devjangid788@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -341,4 +338,4 @@ Customer support SaaS concept exploring AI-powered support workflows.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:123B65,100:020617&height=130&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:123B65,100:020617&height=130&section=footer&animation=fadeIn" alt="Animated Footer"/>
